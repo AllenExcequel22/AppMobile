@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WhereHub</string>
+    <string name="login">Inicio de Sesión</string>
+    <string name="username_hint">Usuario</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="create_account">Crear cuenta</string>
+    <string name="forgot_password">Recuperar contraseña</string>
+    <string name="create_account_title">Crear Cuenta</string>
+    <string name="full_name_hint">Nombre completo</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="phone_hint">Teléfono</string>
+    <string name="address_hint">Dirección</string>
+    <string name="create_account_button">Crear cuenta</string>
+    <string name="back_to_login">Volver al login</string>
+    <string name="forgot_password_title">Recuperar Contraseña</string>
+    <string name="recover_password_button">Recuperar contraseña</string>
+    <string name="error_empty_fields">Por favor, complete todos los campos</string>
+    <string name="account_created">Cuenta creada exitosamente</string>
+    <string name="password_recovery_email_sent">Se ha enviado un correo para recuperar su contraseña</string>
+</resources>
